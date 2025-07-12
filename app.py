@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🫖 Dhaba Billing System")
+st.title("🫖 Chai Pe Charcha - Chai Bill 🫖")
 
 # Prices
 single_T = 15
